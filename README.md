@@ -11,6 +11,4 @@ $ \ddot{\theta} + \alpha \cdot \dot{\theta} + \sin{\theta} = 0 $
 
 where $\theta$ is the angle of the pendulum and with $\alpha = 0.1$.
 
-Most of the work happens in the attached file: _DE_solver.py_
-
-**REMARK: tensorflow 1.xx is required (not 2.xx)**
+To test it, run 'simple pendulum_beta.ipynb' notebook.
