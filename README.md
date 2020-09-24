@@ -7,9 +7,9 @@ Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics informed d
 
 This notebook shows how to solve the simple pendulum equation with some friction,
 
-$$
+\begin{equation}
 \ddot{\theta} + \alpha \cdot \dot{\theta} + \sin{\theta} = 0
-$$
+\end{equation}
 
 where $\theta$ is the angle of the pendulum and with $\alpha = 0.1$.
 
